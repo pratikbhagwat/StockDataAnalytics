@@ -1,1 +1,11 @@
-This Project does the analysis on stock data. 
+This Project does the analysis on stock data.
+The mining techniques used in this project are:
+1) Clustering
+2) Association
+3) Stock Prediction using Linear Regression on historical data
+
+This Project was done as an academic Project by group of Three ppl including me.
+
+The other contributers of the project are:
+Narayan Asuri
+Yuying Mao

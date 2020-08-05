@@ -1,0 +1,20 @@
+Data Folder
+
+1. dataQuandlLarger.csv - Contains stock data collected using Quandl API
+2. dataYF1.csv - Contains stock data collected using Yahoo Finance API
+3. dataYF2.csv - Contains stock data collected using Yahoo Finance API
+4. MergedDataMoreSources - Contains the data merged from 1,2,3 (Final Dataset)
+5. SampleStockDataset.csv - Contains 33 instances from the dataset
+6. economicDataForComparison.csv - Includes average stock transfer colume, annual GDP, average monthly IDP that will be used for pairwise comparison
+7. stockTransactions.dump - Data file which contains the data for the apriori algorithm
+
+Code Folder
+
+1. GatheraMoreDataYahooFinance1.py - Code for gathering data from Yahoo Finance API
+2. GatheraMoreDataYahooFinance2.py - Code for gathering data from Yahoo Finance API
+3. GatherMoreDataQuandl.py - Code for gathering data from Quandl API
+4. GatherModeData - Code to merge the data from Yahoo and Quandl together
+5. DataForApriori.py - Code to transform the stock data to transaction based data so that it may be used by the apriori algorithm
+6. AprioriForStock.py - Code to generate rules from the data
+7. StockLinearRegression.ipynb - Code to perform Linear Regression based on 30 day windows of stock values
+8. InitialAnalysis.ipynb - Notebook to clean and generate clustering results from Stock data.

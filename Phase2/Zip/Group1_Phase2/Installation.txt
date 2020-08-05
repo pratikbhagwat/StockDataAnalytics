@@ -1,0 +1,13 @@
+All programs are made using Python3, and as such, would require the computer to have python installed
+To run the programs we require the Yahoo-finance api and the quandl api
+
+1. pip install yahoo-finance
+2. pip install Quandl
+
+Example : 
+
+python3 GatherDataQuandl.py
+python3 GatheraMoreDataYahooFinance1.py
+
+To import Data to database we load the SQL script in the Code folder.
+

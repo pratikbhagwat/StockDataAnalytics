@@ -1,0 +1,11 @@
+Apriori - Year 2008
+Support - 0.3
+Confidence - 0.9
+
+Rules
+{Cisco Systems Inc, Comcast Corp} -> {Automatic Data Processing Inc}, 
+{Comcast Corp, Costco Wholesale Corp} -> {Automatic Data Processing Inc}, 
+{Comcast Corp, Fiserv Inc} -> {Automatic Data Processing Inc}, 
+{Intel Corp, Lam Research Corp} -> {Adobe Inc}, 
+{Analog Devices Inc, Intuit Inc} -> {Intel Corp}, 
+{Analog Devices Inc, Lam Research Corp} -> {Intel Corp}

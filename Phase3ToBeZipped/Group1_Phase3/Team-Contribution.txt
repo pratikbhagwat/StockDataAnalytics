@@ -1,0 +1,19 @@
+Team Contribution
+
+1. Pratik Bhagwat - pb1606
+	Linear Regression Code
+	Collected the GDP and IDP datasets
+	Cleaned Data to remove duplicates
+	Report, Slides
+
+2. Yuying Mao - ym9064
+	Collected stock data from Yahoo Finance
+	Introduction, Motivation, Data Description, Visualisations in the report
+	Did the pairwise comparison and the visualisations of attributes
+	Cleaned Data
+
+3. Narayanan Asuri Krishnan - nk1581
+	Collected stock data from Quandl
+	Merged all datasets into one dataset
+	Clustering and Association Rule Mining (Code, Report)
+	Report, Slides
